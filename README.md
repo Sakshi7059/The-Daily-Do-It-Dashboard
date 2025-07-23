@@ -1,4 +1,4 @@
-# location_based_reminder
+# The Daily Do-It Dashboard
 
 A new Flutter project.
 
